@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: DIDCommProtocol
 
-Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:3](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L3)
+Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:3](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L3)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:3](https://github.c
 
 > **packEncrypted**(`message`: [`Message`](../namespaces/Domain/classes/Message.md), `to`: [`DID`](../namespaces/Domain/classes/DID.md), `from?`: [`DID`](../namespaces/Domain/classes/DID.md)): `Promise`\<`string`\>
 
-Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:4](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L4)
+Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:4](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L4)
 
 #### Parameters
 
@@ -34,7 +34,7 @@ Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:4](https://github.c
 
 > **unpack**(`message`: `string`): `Promise`\<[`Message`](../namespaces/Domain/classes/Message.md)\>
 
-Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:9](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L9)
+Defined in: [packages/lib/sdk/src/mercury/DIDCommProtocol.ts:9](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/mercury/DIDCommProtocol.ts#L9)
 
 #### Parameters
 

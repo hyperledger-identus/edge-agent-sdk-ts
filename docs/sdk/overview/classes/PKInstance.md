@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: PKInstance
 
-Defined in: [packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts#L11)
+Defined in: [packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts#L11)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts:11](http
 
 > **new PKInstance**(...`args`: \[[`PKInstanceArgs`](../interfaces/PKInstanceArgs.md)\]): `PKInstance`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L18)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L18)
 
 #### Parameters
 
@@ -40,7 +40,7 @@ Task\<Domain.PublicKey \| undefined, Args\>.constructor
 
 > **log**(): `unknown`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L27)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L27)
 
 #### Returns
 
@@ -56,7 +56,7 @@ Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperled
 
 > **run**(`ctx`: [`AgentContext`](AgentContext.md)): `Promise`\<[`PublicKey`](../namespaces/Domain/classes/PublicKey.md) \| `undefined`\>
 
-Defined in: [packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts#L12)
+Defined in: [packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/edge-agent/didFunctions/PKInstance.ts#L12)
 
 #### Parameters
 

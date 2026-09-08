@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Enumeration: role
 
-Defined in: [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:41](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L41)
+Defined in: [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:41](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L41)
 
 Enum for Role values
   - unknown : value could not be mapped
@@ -18,7 +18,7 @@ Enum for Role values
 
 | Enumeration Member | Value | Defined in |
 | ------ | ------ | ------ |
-| <a id="enumeration-member-mediator"></a> `mediator` | `2` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:44](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L44) |
-| <a id="enumeration-member-pair"></a> `pair` | `1` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:43](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L43) |
-| <a id="enumeration-member-routing"></a> `routing` | `3` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:45](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L45) |
-| <a id="enumeration-member-unknown"></a> `unknown` | `0` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:42](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L42) |
+| <a id="enumeration-member-mediator"></a> `mediator` | `2` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:44](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L44) |
+| <a id="enumeration-member-pair"></a> `pair` | `1` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:43](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L43) |
+| <a id="enumeration-member-routing"></a> `routing` | `3` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:45](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L45) |
+| <a id="enumeration-member-unknown"></a> `unknown` | `0` | [packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts:42](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/models/relationships/DIDLink.ts#L42) |

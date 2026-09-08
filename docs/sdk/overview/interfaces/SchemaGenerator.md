@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SchemaGenerator\<T\>
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:260](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L260)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:260](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L260)
 
 Builder interface used inside schemaFactory callbacks
 to declaratively define a Model's schema.
@@ -36,7 +36,7 @@ schemaFactory<MyModel>(schema => {
 
 > **addProperty**\<`P`\>(`type`: `P`, `key`: `KeysFor`\<`T`, `P`\>, `opts?`: `any`): `void`
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:262](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L262)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:262](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L262)
 
 Register a property with a RIDB field type.
 
@@ -62,7 +62,7 @@ Register a property with a RIDB field type.
 
 > **addProperty**(`type`: `"string"` \| `"number"` \| `"boolean"` \| `"object"` \| `"array"`, `key`: `string`, `opts?`: `any`): `void`
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:263](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L263)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:263](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L263)
 
 ##### Parameters
 
@@ -82,7 +82,7 @@ Defined in: [packages/lib/sdk/src/pluto/types.ts:263](https://github.com/hyperle
 
 > **setEncrypted**\<`K`\>(...`keys`: `K`[]): `K`[]
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:265](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L265)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:265](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L265)
 
 Mark one or more properties as encrypted-at-rest.
 
@@ -108,7 +108,7 @@ Mark one or more properties as encrypted-at-rest.
 
 > **setRequired**(...`keys`: `Exclude`\<`Extract`\<keyof `T`, `string`\>, `"uuid"`\>[]): `void`
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:267](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L267)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:267](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L267)
 
 Mark one or more properties as required.
 
@@ -128,7 +128,7 @@ Mark one or more properties as required.
 
 > **setVersion**(`version`: `number`): `void`
 
-Defined in: [packages/lib/sdk/src/pluto/types.ts:269](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/pluto/types.ts#L269)
+Defined in: [packages/lib/sdk/src/pluto/types.ts:269](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/pluto/types.ts#L269)
 
 Set the schema version (used for migrations).
 

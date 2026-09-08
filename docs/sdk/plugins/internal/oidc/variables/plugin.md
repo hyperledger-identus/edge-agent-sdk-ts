@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -8,4 +8,4 @@
 
 > `const` **plugin**: [`Plugin`](../../../../overview/classes/Plugin.md)
 
-Defined in: [packages/lib/sdk/src/plugins/internal/oidc/plugin.ts:8](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/oidc/plugin.ts#L8)
+Defined in: [packages/lib/sdk/src/plugins/internal/oidc/plugin.ts:8](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/oidc/plugin.ts#L8)

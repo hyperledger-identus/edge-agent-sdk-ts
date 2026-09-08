@@ -1,4 +1,4 @@
-**@hyperledger/identus-sdk v8.1.2**
+**@hyperledger/identus-sdk v8.1.3**
 
 ***
 

@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,15 +6,15 @@
 
 # Interface: AnoncredsInputFieldFilter
 
-Defined in: [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:22](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L22)
+Defined in: [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:22](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L22)
 
 ## Properties
 
 | Property | Type | Defined in |
 | ------ | ------ | ------ |
-| <a id="property-gt"></a> `$gt?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:25](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L25) |
-| <a id="property-gte"></a> `$gte?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:26](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L26) |
-| <a id="property-lt"></a> `$lt?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L27) |
-| <a id="property-lte"></a> `$lte?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:28](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L28) |
-| <a id="property-name"></a> `name` | `string` | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:24](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L24) |
-| <a id="property-type"></a> `type` | `string` | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:23](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L23) |
+| <a id="property-gt"></a> `$gt?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:25](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L25) |
+| <a id="property-gte"></a> `$gte?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:26](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L26) |
+| <a id="property-lt"></a> `$lt?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L27) |
+| <a id="property-lte"></a> `$lte?` | [`PredicateType`](../type-aliases/PredicateType.md) | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:28](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L28) |
+| <a id="property-name"></a> `name` | `string` | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:24](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L24) |
+| <a id="property-type"></a> `type` | `string` | [packages/lib/sdk/src/plugins/internal/anoncreds/types.ts:23](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/anoncreds/types.ts#L23) |

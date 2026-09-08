@@ -1,3 +1,13 @@
+## 8.1.4 (2026-09-08)
+
+### 🩹 Fixes
+
+- fix wrong export type for a function that we need at runtime ([#675](https://github.com/hyperledger-identus/sdk-ts/pull/675))
+
+### ❤️ Thank You
+
+- Javier Ribó
+
 ## 8.1.3 (2026-09-01)
 
 ### 🩹 Fixes

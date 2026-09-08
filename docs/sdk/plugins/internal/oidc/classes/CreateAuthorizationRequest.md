@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: CreateAuthorizationRequest
 
-Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts:29](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts#L29)
+Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts:29](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts#L29)
 
 manage the creation of an Authorization Request
 
@@ -32,7 +32,7 @@ manage the creation of an Authorization Request
 
 > **new CreateAuthorizationRequest**(...`args`: \[[`CreateAuthorizationRequestArgs`](../interfaces/CreateAuthorizationRequestArgs.md)\]): `CreateAuthorizationRequest`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L18)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L18)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperled
 
 > **log**(): `unknown`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L27)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L27)
 
 #### Returns
 
@@ -70,7 +70,7 @@ Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperled
 
 > **run**(): `Promise`\<[`AuthorizationRequest`](AuthorizationRequest.md)\>
 
-Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts:30](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts#L30)
+Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts:30](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/oidc/connection/CreateAuthorizationRequest.ts#L30)
 
 #### Returns
 

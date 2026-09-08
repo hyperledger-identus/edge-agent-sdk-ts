@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: BasicMessageBody
 
-Defined in: [packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts:9](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts#L9)
+Defined in: [packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts:9](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts#L9)
 
 Specification:
 https://didcomm.org/basicmessage/2.0/
@@ -15,4 +15,4 @@ https://didcomm.org/basicmessage/2.0/
 
 | Property | Type | Defined in |
 | ------ | ------ | ------ |
-| <a id="property-content"></a> `content` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts#L11) |
+| <a id="property-content"></a> `content` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/didcomm/protocols/other/BasicMessage.ts#L11) |

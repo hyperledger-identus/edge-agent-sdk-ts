@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CredentialFormat
 
-Defined in: [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L11)
+Defined in: [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:11](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L11)
 
 Specification:
 https://github.com/decentralized-identity/waci-didcomm/tree/main/issue_credential#request-credential
@@ -15,5 +15,5 @@ https://github.com/decentralized-identity/waci-didcomm/tree/main/issue_credentia
 
 | Property | Type | Defined in |
 | ------ | ------ | ------ |
-| <a id="property-attach_id"></a> `attach_id` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L12) |
-| <a id="property-format"></a> `format` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:13](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L13) |
+| <a id="property-attach_id"></a> `attach_id` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L12) |
+| <a id="property-format"></a> `format` | `string` | [packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts:13](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/didcomm/protocols/issueCredential/RequestCredential.ts#L13) |

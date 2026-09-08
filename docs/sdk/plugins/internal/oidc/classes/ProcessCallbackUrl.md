@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../../../../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../../../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: ProcessCallbackUrl
 
-Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts#L12)
+Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts:12](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts#L12)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallba
 
 > **new ProcessCallbackUrl**(...`args`: \[[`ProcessCallbackUrlArgs`](../interfaces/ProcessCallbackUrlArgs.md)\]): `ProcessCallbackUrl`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L18)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L18)
 
 #### Parameters
 
@@ -40,7 +40,7 @@ Defined in: [packages/lib/sdk/src/utils/tasks.ts:18](https://github.com/hyperled
 
 > **log**(): `unknown`
 
-Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/utils/tasks.ts#L27)
+Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/utils/tasks.ts#L27)
 
 #### Returns
 
@@ -56,7 +56,7 @@ Defined in: [packages/lib/sdk/src/utils/tasks.ts:27](https://github.com/hyperled
 
 > **run**(): `Promise`\<[`AuthorizationResponse`](AuthorizationResponse.md)\>
 
-Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts:13](https://github.com/hyperledger-identus/sdk-ts/blob/5a2cd1f0ed4e00a35c63d03f877a5bdce569f623/packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts#L13)
+Defined in: [packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts:13](https://github.com/hyperledger-identus/sdk-ts/blob/4ce15c3080f44e7e00a0b9a53e696f0a8ec66794/packages/lib/sdk/src/plugins/internal/oidc/connection/ProcessCallbackUrl.ts#L13)
 
 #### Returns
 

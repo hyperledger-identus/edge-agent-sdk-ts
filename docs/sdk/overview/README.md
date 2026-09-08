@@ -1,4 +1,4 @@
-[**@hyperledger/identus-sdk v8.1.2**](../README.md)
+[**@hyperledger/identus-sdk v8.1.3**](../README.md)
 
 ***
 
@@ -153,7 +153,6 @@
 | [DIDMethodOperation](type-aliases/DIDMethodOperation.md) | Generic wrapper for the return value of lifecycle operations (`publish`, `update`, `deactivate`). By default it resolves to `TMetadata` itself, but the second type parameter can override the concrete result type. |
 | [EventCallback](type-aliases/EventCallback.md) | - |
 | [EventCallbacks](type-aliases/EventCallbacks.md) | - |
-| [getOperationHash](type-aliases/getOperationHash.md) | - |
 | [JsonObj](type-aliases/JsonObj.md) | Construct a Type with a set of string Keys of type T | undefined To be used in place of Record for arbitrary data structs where the key does not definitely result in a T |
 | [LogLevel](type-aliases/LogLevel.md) | - |
 | [MasterKey](type-aliases/MasterKey.md) | - |
@@ -214,5 +213,6 @@
 | Function | Description |
 | ------ | ------ |
 | [createStore](functions/createStore.md) | Create a default [Pluto.Store](namespaces/Pluto/interfaces/Store.md) backed by RIDB. |
+| [getOperationHash](functions/getOperationHash.md) | - |
 | [makeCollections](functions/makeCollections.md) | Build the complete map of Pluto collections. |
 | [repositoryFactory](functions/repositoryFactory.md) | Factory fn to instantiate all Repositories |
